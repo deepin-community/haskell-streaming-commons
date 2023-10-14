@@ -1,5 +1,17 @@
 # ChangeLog for streaming-commons
 
+## 0.2.2.4
+
+* Fix docstrings for text 2.0
+
+## 0.2.2.3
+
+* Support text 2.0 [#65](https://github.com/fpco/streaming-commons/pull/65)
+
+## 0.2.2.2
+
+* Support GHC 9.2 [#62](https://github.com/fpco/streaming-commons/pull/62)
+
 ## 0.2.2.1
 
 * Fix test suite compilation issue [stackage#5528](https://github.com/commercialhaskell/stackage/issues/5528)
